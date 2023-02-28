@@ -1,7 +1,8 @@
-package ua.zp.brainacad;
+package Lab2;
 
 public class ItemOne {
     public static void main(String[] args) {
-        System.out.println("Test git");
+
+        System.out.println("W\to\tr\tl\td");
     }
 }
