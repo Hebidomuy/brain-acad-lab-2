@@ -29,7 +29,6 @@ public class StringTest {
         String str8 = " Я_новая_строка  ";
         System.out.println(str8.trim().replace('_', ' '));
 
-
         Scanner in = new Scanner(System.in);
         System.out.print("Вы ввели: ");
         String text = in.nextLine();
@@ -58,5 +57,3 @@ public class StringTest {
         System.out.println(st.reverse().toString());
     }
 }
-
-
